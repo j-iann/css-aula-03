@@ -1,0 +1,12 @@
+h1 {
+	background-color: green;
+	color: white;
+}
+
+body {
+	background-color: lightblue;
+}
+
+html {
+	background: url(peach.jpg) no-repeat bottom right fixed;
+}
